@@ -182,7 +182,7 @@ Then open any notebook and start exploring! 📊
  ┣ 📓 test_3.ipynb
  ┣ 📓 test_4.ipynb
  ┣ 📓 test_5.ipynb
- │
+ ┣ 📓 test_6.ipynb
  ┗ 📄 README.md
 ```
 
