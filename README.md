@@ -1,213 +1,233 @@
-<div align="center">
+# 📊 Data Analysis with Python
 
-# 📊 Data Analysis Portfolio
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Manipulation-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0?style=for-the-badge" />
+</p>
 
-### Turning Raw Data into Meaningful Insights 🚀
+## 👋 About This Repository
 
-*A collection of hands-on data analysis projects using real-world datasets, Python, and powerful data visualization libraries.*
+Welcome to my **Data Analysis with Python** repository!
 
-<br>
+This repository documents my journey of learning and applying data analysis concepts through practical projects, real-world datasets, statistical techniques, and data visualisation.
 
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-purple?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-green?style=for-the-badge)
+My goal is to understand data beyond just writing code — discovering patterns, analysing relationships, testing hypotheses, and extracting meaningful insights that can support better decisions.
 
-</div>
-
----
-
-## 👋 Welcome!
-
-Welcome to my **Data Analysis Repository**! 🎉
-
-This repository contains my hands-on journey of learning and practicing **Data Analysis**. Here, I work with real-world datasets to clean data, explore patterns, visualize relationships, and discover meaningful insights.
-
-> 💡 **My goal:** Learn how to transform raw data into information that can help people make better decisions.
-
----
-
-## 🧠 What You'll Find Here
-
-📂 **Real-world datasets**  
-📊 **Exploratory Data Analysis (EDA)**  
-🧹 **Data Cleaning & Preprocessing**  
-📈 **Data Visualization**  
-🔍 **Finding Patterns & Relationships**  
-📓 **Jupyter Notebook Analysis Projects**
-
----
-
-## 🗂️ Datasets & Projects
-
-| 📁 Dataset | 🔎 What I'm Exploring |
-|---|---|
-| 🚢 **Titanic Dataset** | Passenger survival patterns and feature relationships |
-| 🛒 **Sample Superstore** | Sales, profit, discount, and business insights |
-| 🏨 **Hotel Bookings** | Booking behavior, cancellations, and customer patterns |
-| 🛍️ **Online Retail** | Customer purchases, products, and revenue analysis |
-
-> 🚀 More datasets and projects will be added as I continue my data analysis journey!
+I am continuously expanding this repository as I develop my skills in **Data Analysis, Statistics, and Machine Learning**.
 
 ---
 
 ## 🛠️ Technologies & Libraries
 
-This repository uses the following tools:
-
-```text
-🐍 Python
-🐼 Pandas
-🔢 NumPy
-📊 Matplotlib
-🎨 Seaborn
-📓 Jupyter Notebook
-```
-
----
-
-## 🔄 My Data Analysis Workflow
-
-```mermaid
-flowchart LR
-    A[📥 Collect Data] --> B[🧹 Clean Data]
-    B --> C[🔍 Explore Data]
-    C --> D[📊 Visualize Data]
-    D --> E[💡 Discover Insights]
-    E --> F[🚀 Make Decisions]
-```
+| Technology | Purpose |
+|---|---|
+| Python | Core programming language |
+| NumPy | Numerical and mathematical operations |
+| Pandas | Data manipulation and cleaning |
+| Matplotlib | Data visualisation |
+| Seaborn | Statistical visualisation |
+| SciPy | Statistical hypothesis testing |
+| Jupyter Notebook | Interactive analysis and experimentation |
 
 ---
 
-## 📈 What I Practice
+## 📂 Datasets & Projects
 
-<details>
-<summary><b>🧹 Data Cleaning</b></summary>
+I work with different datasets to explore analytical techniques and solve data-related problems.
 
-<br>
+### 1. Titanic Dataset 🚢
+**Objective:** Explore passenger information and understand factors associated with survival.
 
-- Handling missing values
-- Removing duplicates
-- Correcting data types
-- Preparing datasets for analysis
+Topics:
+- Data cleaning and preprocessing
+- Missing value analysis
+- Survival rate analysis
+- Gender and passenger-class analysis
+- Age distribution
+- Correlation and visualisation
+- Statistical hypothesis testing
 
-</details>
+### 2. Sample Superstore Dataset 🏪
+**Objective:** Analyse sales and business performance.
 
-<details>
-<summary><b>🔍 Exploratory Data Analysis</b></summary>
+Topics:
+- Sales and profit analysis
+- Category-wise performance
+- Regional comparisons
+- Customer segmentation
+- Business insights through visualisation
 
-<br>
+### 3. Hotel Bookings Dataset 🏨
+**Objective:** Understand hotel booking patterns and customer behaviour.
 
-- Understanding dataset structure
-- Calculating summary statistics
-- Finding patterns and trends
-- Identifying relationships between variables
+Topics:
+- Booking trends
+- Cancellation analysis
+- Customer distribution
+- Seasonal patterns
+- Correlation analysis
 
-</details>
+### 4. Online Retail Dataset 🛒
+**Objective:** Explore transactional data and customer purchasing behaviour.
 
-<details>
-<summary><b>📊 Data Visualization</b></summary>
+Topics:
+- Revenue analysis
+- Product performance
+- Customer purchasing patterns
+- Sales trends
+- Exploratory Data Analysis (EDA)
 
-<br>
+---
 
-- Histograms
+## 📈 Concepts I'm Exploring
+
+### Data Analysis
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Data Preprocessing
+- Missing Value Treatment
+- Outlier Detection
+- Feature Relationships
+- Data Aggregation
+
+### Mathematical & Statistical Analysis
+- Mean, Median and Mode
+- Variance and Standard Deviation
+- Probability Distributions
+- Correlation and Covariance
+- Hypothesis Testing
+- P-Value and Significance Level
+- Confidence Intervals
+- Chi-Square Test
+- Independent Samples T-Test
+- Mann-Whitney U Test
+- Shapiro-Wilk Test
+
+### Data Visualisation
 - Bar Charts
-- Line Charts
+- Histograms
+- Scatter Plots
 - Box Plots
 - Heatmaps
-- Scatter Plots
-- Correlation Analysis
-
-</details>
-
----
-
-## 🎯 Learning Journey
-
-```text
-Data Collection  📥
-       ↓
-Data Cleaning    🧹
-       ↓
-Data Exploration 🔍
-       ↓
-Data Visualization 📊
-       ↓
-Finding Insights 💡
-       ↓
-Continuous Learning 🚀
-```
+- Pair Plots
+- Distribution Plots
+- Statistical Comparisons
 
 ---
 
-## 🚀 Getting Started
+## 🧪 Statistical Analysis Example
 
-If you'd like to explore the notebooks locally:
+One of my analysis experiments involves testing whether passenger gender and survival are statistically associated in the Titanic dataset.
 
-### 1️⃣ Clone the repository
+**Hypotheses:**
 
-```bash
-git clone https://github.com/YOUR-USERNAME/Data_Analysis.git
+- H₀: Gender and survival are independent.
+- H₁: Gender and survival are associated.
+
+**Statistical method:** Chi-Square Test of Independence.
+
+```python
+import pandas as pd
+from scipy.stats import chi2_contingency
+
+df = pd.read_csv("titanic.csv")
+
+table = pd.crosstab(df["Sex"], df["Survived"])
+
+chi2, p_value, dof, expected = chi2_contingency(table)
+
+print("Chi-Square Statistic:", chi2)
+print("P-Value:", p_value)
+
+if p_value < 0.05:
+    print("Significant association found.")
+else:
+    print("Insufficient evidence of an association.")
 ```
 
-### 2️⃣ Install the required libraries
+This experiment demonstrates how statistical methods can help us investigate relationships in datasets.
+
+---
+
+## 🎯 Learning Roadmap
+
+- [x] Python fundamentals
+- [x] NumPy basics
+- [x] Pandas fundamentals
+- [x] Matplotlib visualisation
+- [x] Seaborn visualisation
+- [x] Exploratory Data Analysis
+- [ ] Advanced Statistical Analysis
+- [ ] Probability Distributions
+- [ ] Feature Engineering
+- [ ] Advanced Data Visualisation
+- [ ] Machine Learning Applications
+- [ ] Interactive Data Dashboards
+
+---
+
+## ⚙️ Getting Started
+
+Clone this repository:
 
 ```bash
-pip install pandas numpy matplotlib seaborn jupyter
+git clone https://github.com/Aryanbhayji/Data_Analysis.git
 ```
 
-### 3️⃣ Open Jupyter Notebook
+Navigate to the project directory:
+
+```bash
+cd Data_Analysis
+```
+
+Install the required libraries:
+
+```bash
+pip install numpy pandas matplotlib seaborn scipy jupyter
+```
+
+Start Jupyter Notebook:
 
 ```bash
 jupyter notebook
 ```
 
-Then open any notebook and start exploring! 📊
+---
+
+## 📌 Repository Philosophy
+
+I believe that data analysis is not just about creating charts or calculating averages.
+
+It is about asking meaningful questions, selecting appropriate mathematical and statistical methods, interpreting results, and communicating insights.
+
+Every notebook in this repository represents a practical learning experiment.
 
 ---
 
-## 📌 Repository Structure
+## 👨‍💻 About Me
 
-```text
-📦 Data_Analysis
- ┣ 📂 Datasets
- ┃ ┣ 🛒 SampleSuperstore.csv
- ┃ ┣ 🚢 Titanic-Dataset.csv
- ┃ ┣ 🏨 hotel_bookings.csv
- ┃ ┗ 🛍️ Online Retail.xlsx
- │
- ┣ 📓 test_1.ipynb
- ┣ 📓 test_2.ipynb
- ┣ 📓 test_3.ipynb
- ┣ 📓 test_4.ipynb
- ┣ 📓 test_5.ipynb
- ┣ 📓 test_6.ipynb
- ┗ 📄 README.md
-```
+**Aryan Jain**
+
+B.Tech | Computer Science & Engineering (AI & ML)
+
+Interested in:
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Statistical Analysis
+- Building practical AI projects
+
+I'm continuously learning, experimenting, and building projects to strengthen my understanding of data and intelligent systems.
 
 ---
 
-## 🌟 Future Goals
+<p align="center">
+  <b>Learning by doing. Analysing through data. Building towards AI. 🚀</b>
+</p>
 
-- [x] Learn Python for Data Analysis
-- [x] Practice with real-world datasets
-- [x] Perform Exploratory Data Analysis
-- [ ] Build more advanced analysis projects
-- [ ] Create interactive dashboards
-- [ ] Learn Machine Learning
-- [ ] Build end-to-end data projects
-
----
-
-<div align="center">
-
-## 💬 Let's Connect!
-
-⭐ **If you find this repository interesting, consider giving it a star!**
-
-### 🚀 Learning • Exploring • Analyzing • Growing
-
-**Thanks for visiting my Data Analysis journey! 📊**
-
-</div>
+<p align="center">
+  ⭐ If you find this repository useful, consider giving it a star!
+</p>
